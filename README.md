@@ -72,4 +72,31 @@ The following models were trained and compared:
 ---
 
 ## 📂 Repository Structure
+📈 Results Summary
 
+Top Models: Random Forest, XGBoost
+
+Best AUC: 0.88
+
+Most important features:
+
+Rider_Experience
+
+Avg_Position_Last3
+
+Team_Avg_Position
+
+Rider_Circuit_Avg
+
+Track Conditions
+
+🧑‍💻 Author
+
+Developed by Aurelio Caccese
+🎓 Bachelor’s Thesis in Data Science at Lumsa, Roma in 2025
+📧 aurelio.caccese@gmail.com
+
+🪪 License
+
+This project is released under the MIT License.
+You are free to use, modify, and distribute this work with attribution.

@@ -1,0 +1,18 @@
+Definizione dei task
+
+Previsione dei tempi sul giro (regressione): stimare il tempo che un pilota impiegherà per completare un giro, dato il contesto (circuito, meteo, pilota, team, ecc.).
+Previsione delle classifiche finali (regressione/classificazione): stimare la posizione finale di un pilota in gara.
+Previsione della probabilità di podio (classificazione): stimare la probabilità che un pilota arrivi tra i primi 3.
+Algoritmi utilizzati
+
+Regressione lineare/multipla: per task di regressione (tempi, posizione).
+Random Forest: per task sia di regressione che classificazione, utile per gestire dati eterogenei e feature non lineari.
+XGBoost: modello di boosting molto performante sia per regressione che classificazione.
+Reti neurali (MLP): per task complessi, in particolare quando si dispone di molte feature e dati.
+Metriche di valutazione
+
+RMSE (Root Mean Squared Error): per valutare la precisione delle previsioni sui tempi/posizioni (regressione).
+MAE (Mean Absolute Error): per valutare l’errore medio assoluto nelle previsioni (regressione).
+Accuracy: per task di classificazione (es. podio sì/no).
+F1-score: per valutare la qualità della classificazione, soprattutto in caso di classi sbilanciate (es. pochi piloti sul podio).
+Vuoi che generi anche uno script di esempio per uno di questi task (ad esempio previsione podio o tempi sul giro)?

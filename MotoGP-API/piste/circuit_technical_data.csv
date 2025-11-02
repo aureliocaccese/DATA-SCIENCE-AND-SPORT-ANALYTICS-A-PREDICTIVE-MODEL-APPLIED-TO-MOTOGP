@@ -1,0 +1,15 @@
+Event,Circuit_Name,Length_km,Corners,Track_Type,Elevation_m,Avg_Speed_kmh,Overtaking_Index,Difficulty_Index
+ara,Losail International Circuit,5.380,16,Permanent,0,180.5,0.7,7.5
+arg,Termas de Río Hondo,4.806,14,Permanent,280,175.2,0.8,6.8
+aut,Red Bull Ring,4.318,10,Permanent,678,185.3,0.9,6.2
+cze,Automotodrom Brno,5.403,14,Permanent,259,174.8,0.6,8.1
+esp,Circuito de Jerez,4.423,13,Permanent,37,172.4,0.7,7.3
+fra,Circuit Bugatti Le Mans,4.185,14,Permanent,67,168.9,0.8,7.0
+gbr,Silverstone Circuit,5.891,18,Permanent,153,178.6,0.8,7.8
+ger,Sachsenring,3.671,14,Permanent,294,161.2,0.5,8.9
+hun,Hungaroring,4.381,14,Permanent,105,166.7,0.6,8.4
+ita,Autodromo del Mugello,5.245,15,Permanent,255,182.1,0.7,7.6
+ned,TT Circuit Assen,4.542,18,Permanent,8,176.3,0.8,7.4
+qat,Losail International Circuit,5.380,16,Permanent,0,180.5,0.7,7.5
+tha,Chang International Circuit,4.554,12,Permanent,60,173.8,0.9,6.5
+usa,Circuit of the Americas,5.513,20,Permanent,76,170.4,0.8,8.2

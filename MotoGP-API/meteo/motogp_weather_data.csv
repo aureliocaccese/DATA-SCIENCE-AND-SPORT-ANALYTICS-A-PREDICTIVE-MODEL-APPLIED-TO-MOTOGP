@@ -1,0 +1,271 @@
+Year,Event,Race Title,Conditions,Temperature,Track Conditions,Humidity,Ground Temp
+2002,hun,Event hun,N/A,N/A,N/A,N/A,N/A
+2002,aut,Event aut,N/A,N/A,N/A,N/A,N/A
+2002,cze,Event cze,N/A,N/A,N/A,N/A,N/A
+2002,ger,Event ger,N/A,N/A,N/A,N/A,N/A
+2002,ned,Event ned,N/A,N/A,N/A,N/A,N/A
+2002,ita,Event ita,N/A,N/A,N/A,N/A,N/A
+2002,ara,Event ara,N/A,N/A,N/A,N/A,N/A
+2002,gbr,Event gbr,N/A,N/A,N/A,N/A,N/A
+2002,fra,Event fra,N/A,N/A,N/A,N/A,N/A
+2002,esp,Event esp,N/A,N/A,N/A,N/A,N/A
+2002,qat,Event qat,N/A,N/A,N/A,N/A,N/A
+2002,usa,Event usa,N/A,N/A,N/A,N/A,N/A
+2002,arg,Event arg,N/A,N/A,N/A,N/A,N/A
+2002,tha,Event tha,N/A,N/A,N/A,N/A,N/A
+2003,hun,Event hun,N/A,N/A,N/A,N/A,N/A
+2003,aut,Event aut,N/A,N/A,N/A,N/A,N/A
+2003,cze,Event cze,N/A,N/A,N/A,N/A,N/A
+2003,ger,Event ger,N/A,N/A,N/A,N/A,N/A
+2003,ned,Event ned,N/A,N/A,N/A,N/A,N/A
+2003,ita,Event ita,N/A,N/A,N/A,N/A,N/A
+2003,ara,Event ara,N/A,N/A,N/A,N/A,N/A
+2003,gbr,Event gbr,N/A,N/A,N/A,N/A,N/A
+2003,fra,Event fra,N/A,N/A,N/A,N/A,N/A
+2003,esp,Event esp,N/A,N/A,N/A,N/A,N/A
+2003,qat,Event qat,N/A,N/A,N/A,N/A,N/A
+2003,usa,Event usa,N/A,N/A,N/A,N/A,N/A
+2003,arg,Event arg,N/A,N/A,N/A,N/A,N/A
+2003,tha,Event tha,N/A,N/A,N/A,N/A,N/A
+2004,hun,Event hun,N/A,N/A,N/A,N/A,N/A
+2004,aut,Event aut,N/A,N/A,N/A,N/A,N/A
+2004,cze,Event cze,N/A,N/A,N/A,N/A,N/A
+2004,ger,Event ger,N/A,N/A,N/A,N/A,N/A
+2004,ned,Event ned,N/A,N/A,N/A,N/A,N/A
+2004,ita,Event ita,N/A,N/A,N/A,N/A,N/A
+2004,ara,Event ara,N/A,N/A,N/A,N/A,N/A
+2004,gbr,Event gbr,N/A,N/A,N/A,N/A,N/A
+2004,fra,Event fra,N/A,N/A,N/A,N/A,N/A
+2004,esp,Event esp,N/A,N/A,N/A,N/A,N/A
+2004,qat,Event qat,N/A,N/A,N/A,N/A,N/A
+2004,usa,Event usa,N/A,N/A,N/A,N/A,N/A
+2004,arg,Event arg,N/A,N/A,N/A,N/A,N/A
+2004,tha,Event tha,N/A,N/A,N/A,N/A,N/A
+2005,hun,Event hun,Sunny,21º,Dry,14%,32º
+2005,aut,Event aut,Sunny,21º,Dry,14%,32º
+2005,ger,Event ger,Sunny,21º,Dry,23%,29º
+2005,ned,Event ned,Sunny,23º,Dry,32%,30º
+2005,ita,Event ita,Partly Cloudy,27º,Dry,20%,42º
+2005,ara,Event ara,Sunny,21º,Dry,14%,32º
+2005,gbr,Event gbr,Raining,15º,Wet,77%,13º
+2005,esp,Event esp,Sunny,21º,Dry,14%,32º
+2005,qat,Event qat,Sunny,39º,Dry,10%,45º
+2005,usa,Event usa,Sunny,23º,Dry,29%,52º
+2005,arg,Event arg,Sunny,21º,Dry,14%,32º
+2005,tha,Event tha,Sunny,21º,Dry,14%,32º
+2006,aut,Event aut,Sunny,32º,Dry,11%,43º
+2006,cze,Event cze,Partly Cloudy,24º,Dry,21%,36º
+2006,ger,Event ger,Sunny,20º,Dry,17%,38º
+2006,ned,Event ned,Partly Cloudy,23º,Dry,16%,29º
+2006,ita,Event ita,Sunny,20º,Dry,14%,29º
+2006,ara,Event ara,Sunny,32º,Dry,11%,43º
+2006,fra,Event fra,Partly Cloudy,20º,Wet,27%,29º
+2006,esp,Event esp,Sunny,32º,Dry,11%,43º
+2006,qat,Event qat,Sunny,26º,Dry,12%,41º
+2006,arg,Event arg,Sunny,32º,Dry,11%,43º
+2006,tha,Event tha,Sunny,32º,Dry,11%,43º
+2007,hun,Event hun,Sunny,19º,Dry,43%,25º
+2007,aut,Event aut,Sunny,19º,Dry,43%,25º
+2007,ger,Event ger,Sunny,33º,Dry,28%,41º
+2007,ned,Event ned,Sunny,21º,Dry,38%,32º
+2007,ita,Event ita,Sunny,24º,Dry,20%,29º
+2007,ara,Event ara,Sunny,19º,Dry,43%,25º
+2007,gbr,Event gbr,Cloudy,14º,Wet,90%,18º
+2007,esp,Event esp,Sunny,19º,Dry,43%,25º
+2007,qat,Event qat,Sunny,29º,Dry,11%,45º
+2007,arg,Event arg,Sunny,19º,Dry,43%,25º
+2007,tha,Event tha,Sunny,19º,Dry,43%,25º
+2008,hun,Event hun,Sunny,26º,Dry,41%,34º
+2008,aut,Event aut,Sunny,26º,Dry,41%,34º
+2008,cze,Event cze,Cloudy,20º,Dry,33%,29º
+2008,ned,Event ned,Partly Cloudy,20º,Dry,62%,24º
+2008,ita,Event ita,Sunny,29º,Dry,30%,42º
+2008,ara,Event ara,Sunny,26º,Dry,41%,34º
+2008,gbr,Event gbr,Partly Cloudy,20º,Dry,22%,26º
+2008,esp,Event esp,Sunny,26º,Dry,41%,34º
+2008,qat,Event qat,Sunny,18º,Dry,58%,19º
+2008,usa,Event usa,Sunny,21º,Dry,42%,34º
+2008,arg,Event arg,Sunny,26º,Dry,41%,34º
+2008,tha,Event tha,Sunny,26º,Dry,41%,34º
+2009,aut,Event aut,Sunny,19º,Dry,24%,29º
+2009,cze,Event cze,Sunny,29º,Dry,32%,45º
+2009,ger,Event ger,Partly Cloudy,19º,Dry,48%,27º
+2009,ita,Event ita,Partly Cloudy,18º,Wet,66%,20º
+2009,ara,Event ara,Sunny,19º,Dry,24%,29º
+2009,gbr,Event gbr,Raining,18º,Wet,64%,21º
+2009,fra,Event fra,Partly Cloudy,16º,Wet,58%,19º
+2009,esp,Event esp,Sunny,19º,Dry,24%,29º
+2009,usa,Event usa,Sunny,22º,Dry,43%,42º
+2009,arg,Event arg,Sunny,19º,Dry,24%,29º
+2009,tha,Event tha,Sunny,19º,Dry,24%,29º
+2010,hun,Event hun,Sunny,22º,Dry,33%,27º
+2010,aut,Event aut,Sunny,22º,Dry,33%,27º
+2010,cze,Event cze,Sunny,26º,Dry,43%,40º
+2010,ger,Event ger,Partly Cloudy,20º,Dry,44%,29º
+2010,ned,Event ned,Sunny,23º,Dry,23%,48º
+2010,ara,Event ara,Sunny,23º,Dry,32%,39º
+2010,gbr,Event gbr,Partly Cloudy,17º,Dry,27%,29º
+2010,esp,Event esp,Sunny,22º,Dry,33%,27º
+2010,qat,Event qat,Cloudy,24º,Dry,30%,26º
+2010,usa,Event usa,Sunny,23º,Dry,44%,40º
+2010,arg,Event arg,Sunny,22º,Dry,33%,27º
+2010,tha,Event tha,Sunny,22º,Dry,33%,27º
+2011,aut,Event aut,Raining,17º,Wet,49%,16º
+2011,cze,Event cze,Partly Cloudy,24º,Dry,37%,37º
+2011,ger,Event ger,Cloudy,21º,Dry,49%,29º
+2011,ned,Event ned,Cloudy,14º,Dry,82%,16º
+2011,ara,Event ara,Partly Cloudy,19º,Dry,50%,26º
+2011,gbr,Event gbr,Raining,11º,Wet,85%,10º
+2011,esp,Event esp,Raining,17º,Wet,49%,16º
+2011,qat,Event qat,Partly Cloudy,19º,Dry,31%,20º
+2011,arg,Event arg,Raining,17º,Wet,49%,16º
+2011,tha,Event tha,Raining,17º,Wet,49%,16º
+2012,hun,Event hun,Cloudy,13º,Wet,81%,15º
+2012,aut,Event aut,Cloudy,13º,Wet,81%,15º
+2012,ger,Event ger,Raining,26º,Dry,47%,37º
+2012,ned,Event ned,Partly Cloudy,23º,Dry,44%,37º
+2012,ita,Event ita,Partly Cloudy,25º,Dry,43%,45º
+2012,gbr,Event gbr,Cloudy,15º,Dry,71%,23º
+2012,esp,Event esp,Cloudy,13º,Wet,81%,15º
+2012,qat,Event qat,Partly Cloudy,24º,Dry,53%,23º
+2012,usa,Event usa,Sunny,18º,Dry,65%,24º
+2012,arg,Event arg,Cloudy,13º,Wet,81%,15º
+2012,tha,Event tha,Cloudy,13º,Wet,81%,15º
+2013,aut,Event aut,Partly Cloudy,23º,Dry,28%,26º
+2013,cze,Event cze,Cloudy,17º,Dry,70%,23º
+2013,ned,Event ned,Clear,18º,Dry,49%,18º
+2013,ita,Event ita,Partly Cloudy,21º,Dry,62%,42º
+2013,gbr,Event gbr,Partly Cloudy,18º,Dry,55%,29º
+2013,fra,Event fra,Raining,12º,Wet,93%,18º
+2013,esp,Event esp,Partly Cloudy,23º,Dry,28%,26º
+2013,qat,Event qat,Clear,21º,Dry,66%,23º
+2013,usa,Event usa,Clear,23º,Dry,48%,49º
+2013,arg,Event arg,Partly Cloudy,23º,Dry,28%,26º
+2013,tha,Event tha,Partly Cloudy,23º,Dry,28%,26º
+2014,hun,Event hun,Partly Cloudy,18º,Dry,45%,22º
+2014,aut,Event aut,Partly Cloudy,18º,Dry,45%,22º
+2014,ger,Event ger,Cloudy,21º,Wet-Dry,66%,27º
+2014,ned,Event ned,Cloudy,19º,Wet,69%,25º
+2014,ita,Event ita,Partly Cloudy,26º,Dry,22%,45º
+2014,gbr,Event gbr,Partly Cloudy,18º,Dry,67%,29º
+2014,fra,Event fra,Clear,23º,Dry,35%,42º
+2014,esp,Event esp,Partly Cloudy,18º,Dry,45%,22º
+2014,usa,Event usa,Partly Cloudy,18º,Dry,45%,22º
+2014,arg,Event arg,Partly Cloudy,24º,Dry,60%,37º
+2014,tha,Event tha,Partly Cloudy,18º,Dry,45%,22º
+2015,hun,Event hun,Clear,23º,Dry,63%,29º
+2015,aut,Event aut,Clear,23º,Dry,63%,29º
+2015,ger,Event ger,Partly Cloudy,27º,Dry,38%,42º
+2015,ned,Event ned,Partly Cloudy,20º,Dry,66%,30º
+2015,ita,Event ita,Clear,25º,Dry,48%,48º
+2015,ara,Event ara,Partly Cloudy,23º,Dry,50%,39º
+2015,gbr,Event gbr,Raining,16º,Wet,85%,18º
+2015,fra,Event fra,Clear,18º,Dry,45%,32º
+2015,esp,Event esp,Clear,23º,Dry,63%,29º
+2015,qat,Event qat,Clear,22º,Dry,83%,28º
+2015,usa,Event usa,Clear,23º,Dry,63%,29º
+2015,tha,Event tha,Clear,23º,Dry,63%,29º
+2016,hun,Event hun,Partly Cloudy,22º,Dry,42%,25º
+2016,aut,Event aut,Partly Cloudy,27º,Dry,38%,46º
+2016,cze,Event cze,Cloudy,17º,Wet,100%,18º
+2016,ned,Event ned,Light Rain,17º,Wet,88%,20º
+2016,ita,Event ita,Clear,26º,Dry,40%,48º
+2016,ara,Event ara,Partly Cloudy,22º,Dry,58%,36º
+2016,fra,Event fra,Partly Cloudy,22º,Dry,40%,35º
+2016,esp,Event esp,Partly Cloudy,22º,Dry,42%,25º
+2016,qat,Event qat,Clear,21º,Dry,71%,23º
+2016,usa,Event usa,Partly Cloudy,22º,Dry,42%,25º
+2016,arg,Event arg,Cloudy,25º,Dry,89%,30º
+2016,tha,Event tha,Partly Cloudy,22º,Dry,42%,25º
+2017,ned,Event ned,Cloudy,18º,Wet,76%,25º
+2017,ita,Event ita,Partly Cloudy,25º,Dry,58%,42º
+2017,ara,Event ara,Clear,27º,Dry,44%,40º
+2017,gbr,Event gbr,Clear,25º,Dry,36%,40º
+2017,fra,Event fra,Partly Cloudy,21º,Dry,50%,37º
+2017,esp,Event esp,Clear,25º,Dry,22%,26º
+2017,qat,Event qat,Cloudy,21º,Dry,96%,22º
+2017,usa,Event usa,Clear,25º,Dry,22%,26º
+2017,arg,Event arg,Cloudy,20º,Dry,60%,25º
+2017,tha,Event tha,Clear,25º,Dry,22%,26º
+2018,hun,Event hun,Raining,14º,Wet,96%,14º
+2018,cze,Event cze,Cloudy,28º,Dry,44%,41º
+2018,ger,Event ger,Partly Cloudy,27º,Dry,48%,48º
+2018,ned,Event ned,Clear,23º,Dry,32%,40º
+2018,ita,Event ita,Clear,29º,Dry,39%,51º
+2018,ara,Event ara,Clear,30º,Dry,36%,45º
+2018,fra,Event fra,Clear,24º,Dry,41%,45º
+2018,esp,Event esp,Raining,14º,Wet,96%,14º
+2018,qat,Event qat,Clear,21º,Dry,46%,23º
+2018,usa,Event usa,Raining,14º,Wet,96%,14º
+2018,arg,Event arg,Cloudy,22º,Wet,94%,23º
+2018,tha,Event tha,Clear,32º,Dry,46%,49º
+2019,aut,Event aut,Partly Cloudy,23º,Dry,70%,32º
+2019,cze,Event cze,Partly Cloudy,23º,Wet,43%,28º
+2019,ger,Event ger,Partly Cloudy,20º,Dry,44%,32º
+2019,ita,Event ita,Partly Cloudy,29º,Dry,33%,49º
+2019,ara,Event ara,Partly Cloudy,27º,Dry,46%,32º
+2019,gbr,Event gbr,Partly Cloudy,31º,Dry,27%,44º
+2019,esp,Event esp,Partly Cloudy,15º,Dry,44%,16º
+2019,qat,Event qat,Clear,18º,Dry,52%,19º
+2019,usa,Event usa,Partly Cloudy,15º,Dry,44%,16º
+2019,tha,Event tha,Partly Cloudy,31º,Dry,58%,48º
+2020,hun,Event hun,Clear,22º,Dry,46%,28º
+2020,aut,Event aut,Partly Cloudy,27º,Dry,45%,53º
+2020,cze,Event cze,Clear,30º,Dry,38%,46º
+2020,ger,Event ger,Clear,22º,Dry,46%,28º
+2020,ned,Event ned,Clear,22º,Dry,46%,28º
+2020,ita,Event ita,Clear,22º,Dry,46%,28º
+2020,ara,Event ara,Clear,21º,Dry,34%,31º
+2020,gbr,Event gbr,Clear,22º,Dry,46%,28º
+2020,esp,Event esp,Clear,22º,Dry,46%,28º
+2020,qat,Event qat,Clear,22º,Dry,66%,26º
+2020,usa,Event usa,Clear,22º,Dry,46%,28º
+2020,arg,Event arg,Clear,22º,Dry,46%,28º
+2020,tha,Event tha,Clear,22º,Dry,46%,28º
+2021,cze,Event cze,Clear,20º,Dry,48%,23º
+2021,ger,Event ger,Cloudy,28º,Dry,51%,39º
+2021,ned,Event ned,Partly Cloudy,24º,Dry,68%,34º
+2021,ita,Event ita,Clear,23º,Dry,30%,42º
+2021,ara,Event ara,Clear,30º,Dry,40%,48º
+2021,gbr,Event gbr,Cloudy,17º,Dry,66%,24º
+2021,fra,Event fra,Partly Cloudy,17º,Dry,63%,31º
+2021,esp,Event esp,Clear,20º,Dry,48%,23º
+2021,qat,Event qat,Clear,20º,Dry,60%,22º
+2021,usa,Event usa,Clear,20º,Dry,48%,23º
+2021,arg,Event arg,Clear,20º,Dry,48%,23º
+2021,tha,Event tha,Clear,20º,Dry,48%,23º
+2022,hun,Event hun,Clear,27º,Dry,18%,32º
+2022,aut,Event aut,Clear,º,Dry,%,º
+2022,cze,Event cze,Clear,27º,Dry,18%,32º
+2022,ger,Event ger,Clear,35º,Dry,22%,51º
+2022,ned,Event ned,Cloudy,22º,Dry,59%,30º
+2022,ara,Event ara,Clear,23º,Dry,45%,40º
+2022,gbr,Event gbr,Clear,22º,Dry,46%,43º
+2022,fra,Event fra,Partly Cloudy,28º,Dry,41%,36º
+2022,esp,Event esp,Clear,27º,Dry,18%,32º
+2022,qat,Event qat,Clear,23º,Dry,53%,28º
+2022,usa,Event usa,Clear,27º,Dry,18%,32º
+2022,tha,Event tha,Raining,27º,Wet,85%,29º
+2023,hun,Event hun,Clear,19º,Dry,47%,24º
+2023,aut,Event aut,Partly Cloudy,30º,Dry,36%,33º
+2023,cze,Event cze,Clear,19º,Dry,47%,24º
+2023,ned,Event ned,Clear,30º,Dry,32%,47º
+2023,ita,Event ita,Partly Cloudy,27º,Dry,53%,45º
+2023,ara,Event ara,Clear,19º,Dry,47%,24º
+2023,gbr,Event gbr,Light Rain,16º,Dry,79%,24º
+2023,fra,Event fra,Partly Cloudy,20º,Dry,61%,39º
+2023,esp,Event esp,Clear,19º,Dry,47%,24º
+2023,qat,Event qat,Clear,26º,Dry,59%,28º
+2023,usa,Event usa,Clear,19º,Dry,47%,24º
+2024,tha,Event tha,Light Rain,25º,Wet,93%,28º
+2025,aut,Event aut,Partly Cloudy,24º,Dry,55%,32º
+2025,cze,Event cze,Partly Cloudy,27º,Dry,46%,40º
+2025,ger,Event ger,Cloudy,21º,Dry,65%,27º
+2025,ned,Event ned,Cloudy,24º,Dry,66%,41º
+2025,ita,Event ita,Clear,32º,Dry,41%,49º
+2025,ara,Event ara,Clear,25º,Dry,43%,50º
+2025,gbr,Event gbr,Partly Cloudy,16º,Dry,46%,30º
+2025,fra,Event fra,Heavy Rain,16º,Wet,82%,19º
+2025,qat,Event qat,Clear,28º,Dry,40%,33º
+2025,arg,Event arg,Cloudy,26º,Dry,67%,36º
+2025,tha,Event tha,Partly Cloudy,36º,Dry,41%,50º

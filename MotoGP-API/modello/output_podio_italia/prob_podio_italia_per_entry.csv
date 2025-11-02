@@ -1,0 +1,377 @@
+Rider_normalized,Team,Year,Conditions,Track Conditions,Humidity_num,GroundTemp_num,proba_podio
+Rossi,,2002,,,,,0.8566666666666667
+Biaggim,,2002,,,,,0.8133333333333334
+Ukawat,,2002,,,,,0.12333333333333334
+Checac,,2002,,,,,0.12666666666666668
+Barrosa,,2002,,,,,0.34
+Capirossil,,2002,,,,,0.6066666666666667
+Aben,,2002,,,,,0.056666666666666664
+Laconir,,2002,,,,,0.043333333333333335
+Jacqueo,,2002,,,,,0.02
+Haradat,,2002,,,,,0.03666666666666667
+Nakanos,,2002,,,,,0.02666666666666667
+Hopkinsj,,2002,,,,,0.03333333333333333
+Baylej,,2002,,,,,0.04
+Goorberghj,,2002,,,,,0.1
+Rossi,,2003,,,,,0.9333333333333333
+Capirossil,,2003,,,,,0.13333333333333333
+Biaggim,,2003,,,,,0.82
+Tamadam,,2003,,,,,0.043333333333333335
+Nakanos,,2003,,,,,0.02
+Ukawat,,2003,,,,,0.10333333333333333
+Gibernaus,,2003,,,,,0.6882644017725258
+Checac,,2003,,,,,0.03
+Edwardsc,,2003,,,,,0.07333333333333333
+Jacqueo,,2003,,,,,0.03666666666666667
+Melandrim,,2003,,,,,0.04
+Haydenn,,2003,,,,,0.05
+Kiyonarir,,2003,,,,,0.043333333333333335
+Hofmanna,,2003,,,,,0.013333333333333334
+Mccoyg,,2003,,,,,0.03666666666666667
+Pitta,,2003,,,,,0.03
+Rossi,,2004,,,,,0.8433333333333334
+Gibernaus,,2004,,,,,0.17
+Biaggim,,2004,,,,,0.8233333333333334
+Baylisst,,2004,,,,,0.5327548005908419
+Xausr,,2004,,,,,0.16666666666666666
+Barrosa,,2004,,,,,0.043333333333333335
+Aben,,2004,,,,,0.016666666666666666
+Capirossil,,2004,,,,,0.37666666666666665
+Melandrim,,2004,,,,,0.07333333333333333
+Byrnes,,2004,,,,,0.06333333333333334
+Hodgsonn,,2004,,,,,0.03
+Edwardsc,,2004,,,,,0.13666666666666666
+Aokin,,2004,,,,,0.016666666666666666
+Hofmanna,,2004,,,,,0.016666666666666666
+Fabriziom,,2004,,,,,0.03666666666666667
+Mcwilliamsj,,2004,,,,,0.013333333333333334
+Pitta,,2004,,,,,0.03666666666666667
+Rossi,,2005,Partly Cloudy,Dry,20.0,42.0,0.6333333333333333
+Biaggi,,2005,Partly Cloudy,Dry,20.0,42.0,0.043333333333333335
+Capirossi,,2005,Partly Cloudy,Dry,20.0,42.0,0.04666666666666667
+Melandri,,2005,Partly Cloudy,Dry,20.0,42.0,0.2633333333333333
+Checa,,2005,Partly Cloudy,Dry,20.0,42.0,0.02
+Hayden,,2005,Partly Cloudy,Dry,20.0,42.0,0.05
+Barros,,2005,Partly Cloudy,Dry,20.0,42.0,0.16333333333333333
+Tamada,,2005,Partly Cloudy,Dry,20.0,42.0,0.09
+Edwards,,2005,Partly Cloudy,Dry,20.0,42.0,0.13
+Nakano,,2005,Partly Cloudy,Dry,20.0,42.0,0.16333333333333333
+Hopkins,,2005,Partly Cloudy,Dry,20.0,42.0,0.16
+Hofmann,,2005,Partly Cloudy,Dry,20.0,42.0,0.05
+Bayliss,,2005,Partly Cloudy,Dry,20.0,42.0,0.043333333333333335
+Xaus,,2005,Partly Cloudy,Dry,20.0,42.0,0.16
+Jr,,2005,Partly Cloudy,Dry,20.0,42.0,0.16
+Byrne,,2005,Partly Cloudy,Dry,20.0,42.0,0.16333333333333333
+Rolfo,,2005,Partly Cloudy,Dry,20.0,42.0,0.08
+Battaini,,2005,Partly Cloudy,Dry,20.0,42.0,0.09
+Checa,,2005,Partly Cloudy,Dry,20.0,42.0,0.02
+Rossi,Camel Yamaha Team,2006,Sunny,Dry,14.0,29.0,0.5166666666666667
+Capirossiducati,Ducati Marlboro Team,2006,Sunny,Dry,14.0,29.0,0.17666666666666667
+Haydenrepsol,Repsol Honda Team,2006,Sunny,Dry,14.0,29.0,0.5
+Pedrosa,Repsol Honda Team,2006,Sunny,Dry,14.0,29.0,0.4
+Gibernauducati,Ducati Marlboro Team,2006,Sunny,Dry,14.0,29.0,0.1
+Melandrifortuna,Fortuna Honda,2006,Sunny,Dry,14.0,29.0,0.15
+Eliasfortuna,Fortuna Honda,2006,Sunny,Dry,14.0,29.0,0.023333333333333334
+Roberts,Team Roberts,2006,Sunny,Dry,14.0,29.0,0.023333333333333334
+Tamadakonica,Konica Minolta Honda,2006,Sunny,Dry,14.0,29.0,0.013333333333333334
+Hopkinsrizla,Rizla Suzuki MotoGP,2006,Sunny,Dry,14.0,29.0,0.05333333333333334
+Nakanokawasaki,Kawasaki Racing Team,2006,Sunny,Dry,14.0,29.0,0.05
+Edwardscamel,Camel Yamaha Team,2006,Sunny,Dry,14.0,29.0,0.05
+Punietkawasaki,Kawasaki Racing Team,2006,Sunny,Dry,14.0,29.0,0.013333333333333334
+Vermeulenrizla,Rizla Suzuki MotoGP,2006,Sunny,Dry,14.0,29.0,0.02666666666666667
+Checatech,Tech 3 Yamaha,2006,Sunny,Dry,14.0,29.0,0.006666666666666667
+Ellisontech,Tech 3 Yamaha,2006,Sunny,Dry,14.0,29.0,0.03
+Cardosopramac,Pramac d'Antín MotoGP,2006,Sunny,Dry,14.0,29.0,0.04
+Rossi,Fiat Yamaha Team,2007,Sunny,Dry,20.0,29.0,0.7733333333333333
+Pedrosa,Repsol Honda Team,2007,Sunny,Dry,20.0,29.0,0.47333333333333333
+Barrospramac,Pramac d'Antin,2007,Sunny,Dry,20.0,29.0,0.0
+Stoner,Ducati Marlboro Team,2007,Sunny,Dry,20.0,29.0,0.6166666666666667
+Hopkinsrizla,Rizla Suzuki MotoGP,2007,Sunny,Dry,20.0,29.0,0.11666666666666667
+Eliashonda,Honda Gresini,2007,Sunny,Dry,20.0,29.0,0.03666666666666667
+Capirossiducati,Ducati Marlboro Team,2007,Sunny,Dry,20.0,29.0,0.14333333333333334
+Vermeulenrizla,Rizla Suzuki MotoGP,2007,Sunny,Dry,20.0,29.0,0.03333333333333333
+Melandrihonda,Honda Gresini,2007,Sunny,Dry,20.0,29.0,0.03
+Haydenrepsol,Repsol Honda Team,2007,Sunny,Dry,20.0,29.0,0.38666666666666666
+Hofmannpramac,Pramac d'Antin,2007,Sunny,Dry,20.0,29.0,0.28
+Edwardsfiat,Fiat Yamaha Team,2007,Sunny,Dry,20.0,29.0,0.26
+Nakanokonica,Konica Minolta Honda,2007,Sunny,Dry,20.0,29.0,0.0
+Guintolidunlop,Dunlop Yamaha Tech 3,2007,Sunny,Dry,20.0,29.0,0.03666666666666667
+Tamadadunlop,Dunlop Yamaha Tech 3,2007,Sunny,Dry,20.0,29.0,0.03333333333333333
+Jacquekawasaki,Kawasaki Racing Team,2007,Sunny,Dry,20.0,29.0,0.0
+Roberts,Team Roberts,2007,Sunny,Dry,20.0,29.0,0.043333333333333335
+Rossi,Fiat Yamaha Team,2008,Sunny,Dry,30.0,42.0,0.8466666666666667
+Stoner,Ducati Marlboro Team,2008,Sunny,Dry,30.0,42.0,0.54
+Pedrosa,Repsol Honda Team,2008,Sunny,Dry,30.0,42.0,0.44666666666666666
+Angelissan,San Carlo Honda Gresini,2008,Sunny,Dry,30.0,42.0,0.013333333333333334
+Edwardstech,Tech 3 Yamaha,2008,Sunny,Dry,30.0,42.0,0.043333333333333335
+Toselandtech,Tech 3 Yamaha,2008,Sunny,Dry,30.0,42.0,0.0033333333333333335
+Capirossirizla,Rizla Suzuki MotoGP,2008,Sunny,Dry,30.0,42.0,0.05
+Dovizioso,JiR Team Scot MotoGP,2008,Sunny,Dry,30.0,42.0,0.1
+Nakanosan,San Carlo Honda Gresini,2008,Sunny,Dry,30.0,42.0,0.03666666666666667
+Vermeulenrizla,Rizla Suzuki MotoGP,2008,Sunny,Dry,30.0,42.0,0.03666666666666667
+Guintolialice,Alice Team,2008,Sunny,Dry,30.0,42.0,0.016666666666666666
+Eliasalice,Alice Team,2008,Sunny,Dry,30.0,42.0,0.10666666666666667
+Haydenrepsol,Repsol Honda Team,2008,Sunny,Dry,30.0,42.0,0.3094214672575086
+Okadarepsol,Repsol Honda Team,2008,Sunny,Dry,30.0,42.0,0.35333333333333333
+Westkawasaki,Kawasaki Racing Team,2008,Sunny,Dry,30.0,42.0,0.01
+Stoner,Ducati Marlboro Team,2009,Partly Cloudy,Wet,66.0,20.0,0.38666666666666666
+Lorenzo,Fiat Yamaha Team,2009,Partly Cloudy,Wet,66.0,20.0,0.5233333333333333
+Rossi,Fiat Yamaha Team,2009,Partly Cloudy,Wet,66.0,20.0,0.5433333333333333
+Dovizioso,Repsol Honda Team,2009,Partly Cloudy,Wet,66.0,20.0,0.5933333333333334
+Capirossirizla,Rizla Suzuki MotoGP,2009,Partly Cloudy,Wet,66.0,20.0,0.0033333333333333335
+Edwardsmonster,Monster Yamaha Tech 3,2009,Partly Cloudy,Wet,66.0,20.0,0.04666666666666667
+Toselandmonster,Monster Yamaha Tech 3,2009,Partly Cloudy,Wet,66.0,20.0,0.06333333333333334
+Punietlcr,LCR Honda MotoGP,2009,Partly Cloudy,Wet,66.0,20.0,0.11666666666666667
+Canepapramac,Pramac Racing,2009,Partly Cloudy,Wet,66.0,20.0,0.043333333333333335
+Vermeulenrizla,Rizla Suzuki MotoGP,2009,Partly Cloudy,Wet,66.0,20.0,0.0033333333333333335
+Melandrihayate,Hayate Racing Team,2009,Partly Cloudy,Wet,66.0,20.0,0.02
+Haydenducati,Ducati Marlboro Team,2009,Partly Cloudy,Wet,66.0,20.0,0.16
+Kalliopramac,Pramac Racing,2009,Partly Cloudy,Wet,66.0,20.0,0.03
+Eliassan,San Carlo Honda Gresini,2009,Partly Cloudy,Wet,66.0,20.0,0.03
+Angelissan,San Carlo Honda Gresini,2009,Partly Cloudy,Wet,66.0,20.0,0.01
+Pedrosa,Repsol Honda Team,2010,,,,,0.55
+Lorenzo,Fiat Yamaha Team,2010,,,,,0.9
+Dovizioso,Repsol Honda Team,2010,,,,,0.8
+Stoner,Ducati Marlboro Team,2010,,,,,0.7233333333333334
+Melandrisan,San Carlo Honda Gresini,2010,,,,,0.0
+Punietlcr,LCR Honda MotoGP,2010,,,,,0.01
+Spiesmonster,Monster Yamaha Tech 3,2010,,,,,0.03
+Espargaro,Pramac Racing Team,2010,,,,,0.0
+Simoncellisan,San Carlo Honda Gresini,2010,,,,,0.0033333333333333335
+Capirossirizla,Rizla Suzuki MotoGP,2010,,,,,0.023333333333333334
+Aoyamainterwetten,Interwetten Honda MotoGP,2010,,,,,0.02
+Barberapaginas,Paginas Amarillas Aspar,2010,,,,,0.02
+Edwardsmonster,Monster Yamaha Tech 3,2010,,,,,0.0033333333333333335
+Bautistarizla,Rizla Suzuki MotoGP,2010,,,,,0.006666666666666667
+Lorenzo,Yamaha Factory Racing,2011,,,,,0.6533333333333333
+Dovizioso,Repsol Honda Team,2011,,,,,0.7466666666666667
+Stoner,Repsol Honda Team,2011,,,,,0.7666666666666667
+Spiesyamaha,Yamaha Factory Racing,2011,,,,,0.36666666666666664
+Simoncellisan,San Carlo Honda Gresini,2011,,,,,0.013333333333333334
+Rossi,Ducati Team,2011,,,,,0.47
+Barberamapfre,Mapfre Aspar Team MotoGP,2011,,,,,0.016666666666666666
+Pedrosa,Repsol Honda Team,2011,,,,,0.5533333333333333
+Edwardsmonster,Monster Yamaha Tech 3,2011,,,,,0.0033333333333333335
+Haydenducati,Ducati Team,2011,,,,,0.03666666666666667
+Aoyamasan,San Carlo Honda Gresini,2011,,,,,0.0
+Abrahamcardion,Cardion AB Motoracing,2011,,,,,0.0033333333333333335
+Bautistarizla,Rizla Suzuki MotoGP,2011,,,,,0.006666666666666667
+Punietpramac,Pramac Racing Team,2011,,,,,0.0033333333333333335
+Eliaslcr,LCR Honda MotoGP,2011,,,,,0.0033333333333333335
+Lorenzo,Yamaha Factory Racing,2012,Partly Cloudy,Dry,43.0,45.0,0.6533333333333333
+Pedrosa,Repsol Honda Team,2012,Partly Cloudy,Dry,43.0,45.0,0.6533333333333333
+Dovizioso,Monster Yamaha Tech 3,2012,Partly Cloudy,Dry,43.0,45.0,0.31913467666813744
+Bradllcr,LCR Honda MotoGP,2012,Partly Cloudy,Dry,43.0,45.0,0.05
+Rossi,Ducati Team,2012,Partly Cloudy,Dry,43.0,45.0,0.20666666666666667
+Crutchlow,Monster Yamaha Tech 3,2012,Partly Cloudy,Dry,43.0,45.0,0.4
+Haydenducati,Ducati Team,2012,Partly Cloudy,Dry,43.0,45.0,0.04666666666666667
+Stoner,Repsol Honda Team,2012,Partly Cloudy,Dry,43.0,45.0,0.6866666666666666
+Barberapramac,Pramac Racing Team,2012,Partly Cloudy,Dry,43.0,45.0,0.03
+Bautistasan,San Carlo Honda Gresini,2012,Partly Cloudy,Dry,43.0,45.0,0.03333333333333333
+Spiesyamaha,Yamaha Factory Racing,2012,Partly Cloudy,Dry,43.0,45.0,0.20884293451501723
+Punietpower,Power Electronics Aspar,2012,Partly Cloudy,Dry,43.0,45.0,0.013333333333333334
+Espargaro,Power Electronics Aspar,2012,Partly Cloudy,Dry,43.0,45.0,0.0033333333333333335
+Ellisonpaul,Paul Bird Motorsport,2012,Partly Cloudy,Dry,43.0,45.0,0.02666666666666667
+Pasinispeed,Speed Master,2012,Partly Cloudy,Dry,43.0,45.0,0.02666666666666667
+Silvaavintia,Avintia Blusens,2012,Partly Cloudy,Dry,43.0,45.0,0.023333333333333334
+Lorenzo,Yamaha Factory Racing,2013,Partly Cloudy,Dry,62.0,42.0,0.7488429345150172
+Pedrosa,Repsol Honda Team,2013,Partly Cloudy,Dry,62.0,42.0,0.74
+Crutchlow,Monster Yamaha Tech 3,2013,Partly Cloudy,Dry,62.0,42.0,0.02
+Bradllcr,LCR Honda MotoGP,2013,Partly Cloudy,Dry,62.0,42.0,0.056666666666666664
+Dovizioso,Ducati Team,2013,Partly Cloudy,Dry,62.0,42.0,0.33
+Haydenducati,Ducati Team,2013,Partly Cloudy,Dry,62.0,42.0,0.03333333333333333
+Pirro,Ducati Test Team,2013,Partly Cloudy,Dry,62.0,42.0,0.056666666666666664
+Espargaro,Power Electronics Aspar,2013,Partly Cloudy,Dry,62.0,42.0,0.0033333333333333335
+Smithmonster,Monster Yamaha Tech 3,2013,Partly Cloudy,Dry,62.0,42.0,0.22666666666666666
+Barberaavintia,Avintia Blusens,2013,Partly Cloudy,Dry,62.0,42.0,0.03
+Punietpower,Power Electronics Aspar,2013,Partly Cloudy,Dry,62.0,42.0,0.043333333333333335
+Petruccicame,Came IodaRacing Project,2013,Partly Cloudy,Dry,62.0,42.0,0.05333333333333334
+Iannoneenergy,Energy T.I. Pramac Racing,2013,Partly Cloudy,Dry,62.0,42.0,0.07333333333333333
+Edwardsngm,NGM Mobile Forward Racing,2013,Partly Cloudy,Dry,62.0,42.0,0.04666666666666667
+Abrahamcardion,Cardion AB Motoracing,2013,Partly Cloudy,Dry,62.0,42.0,0.03
+Hernandezpaul,Paul Bird Motorsport,2013,Partly Cloudy,Dry,62.0,42.0,0.0
+Lavertypaul,Paul Bird Motorsport,2013,Partly Cloudy,Dry,62.0,42.0,0.03333333333333333
+Staringgo,GO&FUN Honda Gresini,2013,Partly Cloudy,Dry,62.0,42.0,0.05
+Iodaracing,Came IodaRacing Project,2013,Partly Cloudy,Dry,62.0,42.0,0.056666666666666664
+Marquez,Repsol Honda Team,2014,Partly Cloudy,Dry,22.0,45.0,0.37333333333333335
+Lorenzo,Movistar Yamaha MotoGP,2014,Partly Cloudy,Dry,22.0,45.0,0.68
+Rossi,Movistar Yamaha MotoGP,2014,Partly Cloudy,Dry,22.0,45.0,0.41333333333333333
+Pedrosa,Repsol Honda Team,2014,Partly Cloudy,Dry,22.0,45.0,0.61
+Espargaro,Monster Yamaha Tech 3,2014,Partly Cloudy,Dry,22.0,45.0,0.03333333333333333
+Dovizioso,Ducati Team,2014,Partly Cloudy,Dry,22.0,45.0,0.3566666666666667
+Iannonepramac,Pramac Racing,2014,Partly Cloudy,Dry,22.0,45.0,0.03333333333333333
+Bautistago,GO&FUN Honda Gresini,2014,Partly Cloudy,Dry,22.0,45.0,0.006666666666666667
+Espargaro,NGM Forward Racing,2014,Partly Cloudy,Dry,22.0,45.0,0.01739522972415739
+Hernandezenergy,Energy T.I. Pramac Racing,2014,Partly Cloudy,Dry,22.0,45.0,0.006666666666666667
+Pirro,Ducati Team,2014,Partly Cloudy,Dry,22.0,45.0,0.03666666666666667
+Abrahamcardion,Cardion AB Motoracing,2014,Partly Cloudy,Dry,22.0,45.0,0.006666666666666667
+Reddinggo,GO&FUN Honda Gresini,2014,Partly Cloudy,Dry,22.0,45.0,0.0
+Aoyamadrive,Drive M7 Aspar,2014,Partly Cloudy,Dry,22.0,45.0,0.0033333333333333335
+Edwardsngm,NGM Forward Racing,2014,Partly Cloudy,Dry,22.0,45.0,0.013333333333333334
+Lavertypaul,Paul Bird Motorsport,2014,Partly Cloudy,Dry,22.0,45.0,0.006666666666666667
+Parkespaul,Paul Bird Motorsport,2014,Partly Cloudy,Dry,22.0,45.0,0.0033333333333333335
+Meglioavintia,Avintia Racing,2014,Partly Cloudy,Dry,22.0,45.0,0.02
+Lorenzo,Movistar Yamaha MotoGP,2016,Clear,Dry,40.0,48.0,0.8033333333333333
+Marquez,Repsol Honda Team,2016,Clear,Dry,40.0,48.0,0.33
+Iannoneducati,Ducati Team,2016,Clear,Dry,40.0,48.0,0.31333333333333335
+Pedrosa,Repsol Honda Team,2016,Clear,Dry,40.0,48.0,0.4666666666666667
+Dovizioso,Ducati Team,2016,Clear,Dry,40.0,48.0,0.75
+Alesteam,Team SUZUKI ECSTAR,2016,Clear,Dry,40.0,48.0,0.09
+Smithmonster,Monster Yamaha Tech 3,2016,Clear,Dry,40.0,48.0,0.02
+Petrucciocto,OCTO Pramac Yakhnich,2016,Clear,Dry,40.0,48.0,0.06666666666666667
+Espargaro,Team SUZUKI ECSTAR,2016,Clear,Dry,40.0,48.0,0.016666666666666666
+Pirro,Ducati Team,2016,Clear,Dry,40.0,48.0,0.16666666666666666
+Crutchlow,LCR Honda,2016,Clear,Dry,40.0,48.0,0.06
+Barberaavintia,Avintia Racing,2016,Clear,Dry,40.0,48.0,0.006666666666666667
+Lavertyaspar,Aspar Team MotoGP,2016,Clear,Dry,40.0,48.0,0.006666666666666667
+Bradlaprilia,Aprilia Racing Team Gresini,2016,Clear,Dry,40.0,48.0,0.006666666666666667
+Espargaro,Monster Yamaha Tech 3,2016,Clear,Dry,40.0,48.0,0.004061896390824055
+Hernandezaspar,Aspar Team MotoGP,2016,Clear,Dry,40.0,48.0,0.02
+Dovizioso,Ducati Team,2017,Partly Cloudy,Dry,58.0,42.0,0.09666666666666666
+Alesmovistar,Movistar Yamaha MotoGP,2017,Partly Cloudy,Dry,58.0,42.0,0.45
+Petrucciocto,OCTO Pramac Racing,2017,Partly Cloudy,Dry,58.0,42.0,0.04
+Rossi,Movistar Yamaha MotoGP,2017,Partly Cloudy,Dry,58.0,42.0,0.71
+Bautistapull,Pull&Bear Aspar Team,2017,Partly Cloudy,Dry,58.0,42.0,0.08333333333333333
+Marquez,Repsol Honda Team,2017,Partly Cloudy,Dry,58.0,42.0,0.7966666666666666
+Zarco,Monster Yamaha Tech 3,2017,Partly Cloudy,Dry,58.0,42.0,0.22666666666666666
+Lorenzo,Ducati Team,2017,Partly Cloudy,Dry,58.0,42.0,0.4766666666666667
+Pirro,Ducati Team,2017,Partly Cloudy,Dry,58.0,42.0,0.12666666666666668
+Iannoneteam,Team SUZUKI ECSTAR,2017,Partly Cloudy,Dry,58.0,42.0,0.03666666666666667
+Rabateg,"EG 0,0 Marc VDS",2017,Partly Cloudy,Dry,58.0,42.0,0.03333333333333333
+Reddingocto,OCTO Pramac Racing,2017,Partly Cloudy,Dry,58.0,42.0,0.37666666666666665
+Folgermonster,Monster Yamaha Tech 3,2017,Partly Cloudy,Dry,58.0,42.0,0.11
+Barberareale,Reale Avintia Racing,2017,Partly Cloudy,Dry,58.0,42.0,0.013333333333333334
+Miller,"EG 0,0 Marc VDS",2017,Partly Cloudy,Dry,58.0,42.0,0.03
+Abrahampull,Pull&Bear Aspar Team,2017,Partly Cloudy,Dry,58.0,42.0,0.08
+Guintoliteam,Team SUZUKI ECSTAR,2017,Partly Cloudy,Dry,58.0,42.0,0.05
+Bazreale,Reale Avintia Racing,2017,Partly Cloudy,Dry,58.0,42.0,0.01
+Lowesaprilia,Aprilia Racing Team Gresini,2017,Partly Cloudy,Dry,58.0,42.0,0.03666666666666667
+Smithred,Red Bull KTM Factory Racing,2017,Partly Cloudy,Dry,58.0,42.0,0.05
+Lorenzo,Ducati Team,2018,Clear,Dry,39.0,51.0,0.38666666666666666
+Dovizioso,Ducati Team,2018,Clear,Dry,39.0,51.0,0.25666666666666665
+Rossi,Movistar Yamaha MotoGP,2018,Clear,Dry,39.0,51.0,0.30666666666666664
+Iannoneteam,Team SUZUKI ECSTAR,2018,Clear,Dry,39.0,51.0,0.03666666666666667
+Rins,Team SUZUKI ECSTAR,2018,Clear,Dry,39.0,51.0,0.023333333333333334
+Crutchlow,LCR Honda CASTROL,2018,Clear,Dry,39.0,51.0,0.02666666666666667
+Petruccialma,Alma Pramac Racing,2018,Clear,Dry,39.0,51.0,0.02666666666666667
+Alesmovistar,Movistar Yamaha MotoGP,2018,Clear,Dry,39.0,51.0,0.63
+Bautistaangel,Angel Nieto Team,2018,Clear,Dry,39.0,51.0,0.043333333333333335
+Zarco,Monster Yamaha Tech 3,2018,Clear,Dry,39.0,51.0,0.08333333333333333
+Espargaro,Red Bull KTM Factory Racing,2018,Clear,Dry,39.0,51.0,0.02666666666666667
+Syahrinmonster,Monster Yamaha Tech 3,2018,Clear,Dry,39.0,51.0,0.02666666666666667
+Rabatreale,Reale Avintia Racing,2018,Clear,Dry,39.0,51.0,0.013333333333333334
+Smithred,Red Bull KTM Factory Racing,2018,Clear,Dry,39.0,51.0,0.04666666666666667
+Morbidelli,"EG 0,0 Marc VDS",2018,Clear,Dry,39.0,51.0,0.04666666666666667
+Marquez,Repsol Honda Team,2018,Clear,Dry,39.0,51.0,0.8333333333333334
+Simeonreale,Reale Avintia Racing,2018,Clear,Dry,39.0,51.0,0.01
+Nakagami,LCR Honda IDEMITSU,2018,Clear,Dry,39.0,51.0,0.016666666666666666
+Petruccimission,Mission Winnow Ducati,2019,Partly Cloudy,Dry,33.0,49.0,0.26
+Marquez,Repsol Honda Team,2019,Partly Cloudy,Dry,33.0,49.0,0.31333333333333335
+Dovizioso,Mission Winnow Ducati,2019,Partly Cloudy,Dry,33.0,49.0,0.41333333333333333
+Rins,Team SUZUKI ECSTAR,2019,Partly Cloudy,Dry,33.0,49.0,0.06666666666666667
+Nakagami,LCR Honda IDEMITSU,2019,Partly Cloudy,Dry,33.0,49.0,0.02
+Viñales,Monster Energy Yamaha MotoGP,2019,Partly Cloudy,Dry,33.0,49.0,0.20666666666666667
+Pirro,Mission Winnow Ducati,2019,Partly Cloudy,Dry,33.0,49.0,0.43333333333333335
+Crutchlow,LCR Honda CASTROL,2019,Partly Cloudy,Dry,33.0,49.0,0.05
+Espargaro,Red Bull KTM Factory Racing,2019,Partly Cloudy,Dry,33.0,49.0,0.07406189639082406
+Quartararo,Petronas Yamaha SRT,2019,Partly Cloudy,Dry,33.0,49.0,0.22333333333333333
+Espargaro,Aprilia Racing Team Gresini,2019,Partly Cloudy,Dry,33.0,49.0,0.016666666666666666
+Mir,Team SUZUKI ECSTAR,2019,Partly Cloudy,Dry,33.0,49.0,0.10666666666666667
+Lorenzo,Repsol Honda Team,2019,Partly Cloudy,Dry,33.0,49.0,0.23
+Abrahamreale,Reale Avintia Racing,2019,Partly Cloudy,Dry,33.0,49.0,0.03
+Iannoneaprilia,Aprilia Racing Team Gresini,2019,Partly Cloudy,Dry,33.0,49.0,0.01
+Oliveira,Red Bull KTM Tech 3,2019,Partly Cloudy,Dry,33.0,49.0,0.14666666666666667
+Zarco,Red Bull KTM Factory Racing,2019,Partly Cloudy,Dry,33.0,49.0,0.06
+Oliveira,Red Bull KTM Tech 3,2020,Clear,Dry,46.0,28.0,0.58
+Miller,Pramac Racing,2020,Clear,Dry,46.0,28.0,0.54
+Morbidelli,Petronas Yamaha SRT,2020,Clear,Dry,46.0,28.0,0.52
+Espargaro,Red Bull KTM Factory Racing,2020,Clear,Dry,46.0,28.0,0.03
+Nakagami,LCR Honda IDEMITSU,2020,Clear,Dry,46.0,28.0,0.03666666666666667
+Dovizioso,Ducati Team,2020,Clear,Dry,46.0,28.0,0.32666666666666666
+Bradl,Repsol Honda Team,2020,Clear,Dry,46.0,28.0,0.06333333333333334
+Espargaro,Aprilia Racing Team Gresini,2020,Clear,Dry,46.0,28.0,0.01
+Marquez,Repsol Honda Team,2020,Clear,Dry,46.0,28.0,0.09
+Zarco,Esponsorama Racing,2020,Clear,Dry,46.0,28.0,0.043333333333333335
+Viñales,Monster Energy Yamaha MotoGP,2020,Clear,Dry,46.0,28.0,0.02666666666666667
+Rossi,Monster Energy Yamaha MotoGP,2020,Clear,Dry,46.0,28.0,0.10666666666666667
+Crutchlow,LCR Honda CASTROL,2020,Clear,Dry,46.0,28.0,0.04666666666666667
+Quartararo,Petronas Yamaha SRT,2020,Clear,Dry,46.0,28.0,0.3227539799770228
+Rins,Team SUZUKI ECSTAR,2020,Clear,Dry,46.0,28.0,0.08666666666666667
+Petrucciducati,Ducati Team,2020,Clear,Dry,46.0,28.0,0.1
+Kalliored,Red Bull KTM Tech 3,2020,Clear,Dry,46.0,28.0,0.35
+Rabatesponsorama,Esponsorama Racing,2020,Clear,Dry,46.0,28.0,0.023333333333333334
+Quartararo,Monster Energy Yamaha MotoGP,2021,Clear,Dry,30.0,42.0,0.09333333333333334
+Oliveira,Red Bull KTM Factory Racing,2021,Clear,Dry,30.0,42.0,0.12
+Mir,Team SUZUKI ECSTAR,2021,Clear,Dry,30.0,42.0,0.16
+Zarco,Pramac Racing,2021,Clear,Dry,30.0,42.0,0.22
+Binder,Red Bull KTM Factory Racing,2021,Clear,Dry,30.0,42.0,0.2633333333333333
+Miller,Ducati Lenovo Team,2021,Clear,Dry,30.0,42.0,0.6833333333333333
+Espargaro,Aprilia Racing Team Gresini,2021,Clear,Dry,30.0,42.0,0.06333333333333334
+Viñales,Monster Energy Yamaha MotoGP,2021,Clear,Dry,30.0,42.0,0.26
+Petruccitech,Tech 3 KTM Factory Racing,2021,Clear,Dry,30.0,42.0,0.22333333333333333
+Rossi,Petronas Yamaha SRT,2021,Clear,Dry,30.0,42.0,0.24666666666666667
+Lecuona,Tech 3 KTM Factory Racing,2021,Clear,Dry,30.0,42.0,0.23333333333333334
+Espargaro,Repsol Honda Team,2021,Clear,Dry,30.0,42.0,0.11333333333333333
+Pirro,Pramac Racing,2021,Clear,Dry,30.0,42.0,0.21
+Marquez,LCR Honda CASTROL,2021,Clear,Dry,30.0,42.0,0.24666666666666667
+Savadori,Aprilia Racing Team Gresini,2021,Clear,Dry,30.0,42.0,0.05
+Morbidelli,Petronas Yamaha SRT,2021,Clear,Dry,30.0,42.0,0.32
+Marini,SKY VR46 Avintia,2021,Clear,Dry,30.0,42.0,0.02666666666666667
+Bagnaia,Ducati Lenovo Team,2023,Partly Cloudy,Dry,53.0,45.0,0.43
+Martin,Prima Pramac Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.5633333333333334
+Zarco,Prima Pramac Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.5233333333333333
+Marini,Mooney VR46 Racing Team,2023,Partly Cloudy,Dry,53.0,45.0,0.016666666666666666
+Binder,Red Bull KTM Factory Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.07666666666666666
+Espargaro,Aprilia Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.06333333333333334
+Miller,Red Bull KTM Factory Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.08
+Bezzecchi,Mooney VR46 Racing Team,2023,Partly Cloudy,Dry,53.0,45.0,0.4066666666666667
+Bastianini,Ducati Lenovo Team,2023,Partly Cloudy,Dry,53.0,45.0,0.5166666666666667
+Morbidelli,Monster Energy Yamaha MotoGP,2023,Partly Cloudy,Dry,53.0,45.0,0.04666666666666667
+Quartararo,Monster Energy Yamaha MotoGP,2023,Partly Cloudy,Dry,53.0,45.0,0.21
+Viñales,Aprilia Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.09666666666666666
+Nakagami,LCR Honda IDEMITSU,2023,Partly Cloudy,Dry,53.0,45.0,0.006666666666666667
+Giannantonio,Gresini Racing MotoGP,2023,Partly Cloudy,Dry,53.0,45.0,0.12
+Fernandez,GASGAS Factory Racing Tech3,2023,Partly Cloudy,Dry,53.0,45.0,0.013333333333333334
+Pirro,Aruba.it Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.03333333333333333
+Fernandez,CryptoDATA RNF MotoGP Team,2023,Partly Cloudy,Dry,53.0,45.0,0.02
+Savadori,Aprilia Racing,2023,Partly Cloudy,Dry,53.0,45.0,0.06333333333333334
+Folger,GASGAS Factory Racing Tech3,2023,Partly Cloudy,Dry,53.0,45.0,0.023333333333333334
+Bagnaia,Ducati Lenovo Team,2024,,,,,0.76
+Bastianini,Ducati Lenovo Team,2024,,,,,0.36666666666666664
+Martin,Prima Pramac Racing,2024,,,,,0.7366666666666667
+Marquez,Gresini Racing MotoGP,2024,,,,,0.19725065387888707
+Acosta,Red Bull GASGAS Tech3,2024,,,,,0.12
+Morbidelli,Prima Pramac Racing,2024,,,,,0.22666666666666666
+Giannantonio,Pertamina Enduro VR46 Racing Team,2024,,,,,0.04
+Viñales,Aprilia Racing,2024,,,,,0.02
+Marquez,Gresini Racing MotoGP,2024,,,,,0.168947002133965
+Binder,Red Bull KTM Factory Racing,2024,,,,,0.023333333333333334
+Espargaro,Aprilia Racing,2024,,,,,0.01
+Fernandez,Trackhouse Racing,2024,,,,,0.013333333333333334
+Bezzecchi,Pertamina Enduro VR46 Racing Team,2024,,,,,0.02666666666666667
+Oliveira,Trackhouse Racing,2024,,,,,0.04
+Rins,Monster Energy Yamaha MotoGP Team,2024,,,,,0.023333333333333334
+Miller,Red Bull KTM Factory Racing,2024,,,,,0.023333333333333334
+Espargaro,Red Bull KTM Factory Racing,2024,,,,,0.06406189639082406
+Quartararo,Monster Energy Yamaha MotoGP Team,2024,,,,,0.013333333333333334
+Zarco,CASTROL Honda LCR,2024,,,,,0.04666666666666667
+Marini,Repsol Honda Team,2024,,,,,0.15666666666666668
+Savadori,Aprilia Racing,2024,,,,,0.043333333333333335
+Marquez,Ducati Lenovo Team,2025,Clear,Dry,41.0,49.0,0.7666666666666667
+Marquez,BK8 Gresini Racing MotoGP,2025,Clear,Dry,41.0,49.0,0.41333333333333333
+Giannantonio,Pertamina Enduro VR46 Racing Team,2025,Clear,Dry,41.0,49.0,0.02666666666666667
+Bagnaia,Ducati Lenovo Team,2025,Clear,Dry,41.0,49.0,0.7866666666666666
+Bezzecchi,Aprilia Racing,2025,Clear,Dry,41.0,49.0,0.14333333333333334
+Morbidelli,Pertamina Enduro VR46 Racing Team,2025,Clear,Dry,41.0,49.0,0.15666666666666668
+Fernandez,Trackhouse MotoGP Team,2025,Clear,Dry,41.0,49.0,0.006666666666666667
+Acosta,Red Bull KTM Factory Racing,2025,Clear,Dry,41.0,49.0,0.12
+Binder,Red Bull KTM Factory Racing,2025,Clear,Dry,41.0,49.0,0.1
+Ogura,Trackhouse MotoGP Team,2025,Clear,Dry,41.0,49.0,0.07
+Mir,Honda HRC Castrol,2025,Clear,Dry,41.0,49.0,0.17333333333333334
+Aldeguer,BK8 Gresini Racing MotoGP,2025,Clear,Dry,41.0,49.0,0.2
+Oliveira,Prima Pramac Yamaha MotoGP,2025,Clear,Dry,41.0,49.0,0.17666666666666667
+Quartararo,Monster Energy Yamaha MotoGP Team,2025,Clear,Dry,41.0,49.0,0.08666666666666667
+Rins,Monster Energy Yamaha MotoGP Team,2025,Clear,Dry,41.0,49.0,0.06
+Nakagami,Honda HRC Castrol,2025,Clear,Dry,41.0,49.0,0.04
+Savadori,Aprilia Racing,2025,Clear,Dry,41.0,49.0,0.05
+Chantra,IDEMITSU Honda LCR,2025,Clear,Dry,41.0,49.0,0.06333333333333334

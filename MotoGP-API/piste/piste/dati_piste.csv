@@ -1,0 +1,15 @@
+file,name,length,width,right corners,left corners,longest straight
+ita_circuit_information.pdf,Autodromo Internazionale del Mugello,"5,245 m. / 3.259 miles",14 m.,9,6,"1,141 m. / 0.709 miles"
+arg_circuit_information.pdf,Termas de Río Hondo,"4,806 m. / 2.986 miles",16 m.,9,5,"1,076 m. / 0.669 miles"
+esp_circuit_information.pdf,Balaton Park Circuit,"4,075 m. / 2.532 miles",12 m.,7,10,665 m. / 0.413 miles
+ger_circuit_information.pdf,Sachsenring,"3,671 m. / 2.281 miles",12 m.,3,10,700 m. / 0.435 miles
+aut_circuit_information.pdf,Red Bull Ring - Spielberg,"4,348 m. / 2.702 miles",12 m.,8,3,810 m. / 0.503 miles
+usa_circuit_information.pdf,Balaton Park Circuit,"4,075 m. / 2.532 miles",12 m.,7,10,665 m. / 0.413 miles
+hun_circuit_information.pdf,Balaton Park Circuit,"4,075 m. / 2.532 miles",12 m.,7,10,665 m. / 0.413 miles
+cze_circuit_information.pdf,Automotodrom Brno,"5,403 m. / 3.357 miles",15 m.,8,6,636 m. / 0.395 miles
+qat_circuit_information.pdf,Lusail International Circuit,"5,380 m. / 3.343 miles",12 m.,10,6,"1,068 m. / 0.664 miles"
+ara_circuit_information.pdf,MotorLand Aragón,"5,077 m. / 3.155 miles",15 m.,7,10,968 m. / 0.601 miles
+fra_circuit_information.pdf,Le Mans,"4,185 m. / 2.6 miles",13 m.,9,5,674 m. / 0.419 miles
+gbr_circuit_information.pdf,Silverstone Circuit,"5,900 m. / 3.666 miles",15 m.,10,8,770 m. / 0.478 miles
+ned_circuit_information.pdf,TT Circuit Assen,"4,542 m. / 2.822 miles",14 m.,12,6,487 m. / 0.303 miles
+tha_circuit_information.pdf,Chang International Circuit,"4,554 m. / 2.83 miles",12 m.,7,5,"1,000 m. / 0.621 miles"

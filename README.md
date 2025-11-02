@@ -71,8 +71,7 @@ The following models were trained and compared:
 
 ---
 
-## 📂 Repository Structure
-📈 Results Summary
+## 📈 Results Summary
 
 Top Models: Random Forest, XGBoost
 

@@ -1,0 +1,6 @@
+Rider,Team,Event,Year,Conditions,Prob_podio_RF,Prob_podio_LogReg
+Bagnaia,Pramac Racing,ita,2020,Clear,0.1,0.33481164546875425
+Quartararo,Petronas Yamaha SRT,ita,2020,Clear,0.01,0.5827007305948527
+Martin,Pramac Racing,ita,2021,Clear,0.5,0.5304167995786045
+Marquez,Repsol Honda Team,ita,2019,Partly Cloudy,0.88,0.5621391205855298
+Bastianini,Avintia Esponsorama,ita,2021,Clear,0.05,0.23326132382528433

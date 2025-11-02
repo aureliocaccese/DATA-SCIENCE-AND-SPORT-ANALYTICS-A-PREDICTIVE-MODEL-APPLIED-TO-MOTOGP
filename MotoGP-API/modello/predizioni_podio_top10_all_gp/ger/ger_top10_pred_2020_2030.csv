@@ -1,0 +1,166 @@
+Event,Rider,Team,Year,Conditions,Prob_podio
+ger,Espargaro,Aprilia Racing Team Gresini,2020,Clear,0.0011111486569892737
+ger,Espargaro,Aprilia Racing Team Gresini,2021,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing,2022,Clear,0.011111461721424618
+ger,Espargaro,Aprilia Racing Team Gresini,2023,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2024,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2025,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2026,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2027,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2028,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2029,Cloudy,0.002222303044261561
+ger,Espargaro,Aprilia Racing Team Gresini,2030,Cloudy,0.002222303044261561
+ger,Rossi,Monster Energy Yamaha MotoGP,2020,Clear,0.10211338135961683
+ger,Rossi,Petronas Yamaha SRT,2021,Cloudy,0.20702351546135045
+ger,Rossi,Movistar Yamaha MotoGP,2022,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2023,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2024,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2025,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2026,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2027,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2028,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2029,Partly Cloudy,0.5305503562840775
+ger,Rossi,Movistar Yamaha MotoGP,2030,Partly Cloudy,0.5305503562840775
+ger,Marquez,Repsol Honda Team,2020,Clear,0.2319718624042919
+ger,Marquez,Repsol Honda Team,2021,Cloudy,0.26785220634156376
+ger,Marquez,Repsol Honda Team,2022,Cloudy,0.26785220634156376
+ger,Marquez,Repsol Honda Team,2023,Cloudy,0.28529570763815676
+ger,Marquez,Repsol Honda Team,2024,Cloudy,0.28529570763815676
+ger,Marquez,BK8 Gresini Racing MotoGP,2025,Cloudy,0.028912753000246497
+ger,Marquez,Repsol Honda Team,2026,Cloudy,0.2836749448020815
+ger,Marquez,Repsol Honda Team,2027,Cloudy,0.2836749448020815
+ger,Marquez,Repsol Honda Team,2028,Cloudy,0.2836749448020815
+ger,Marquez,Repsol Honda Team,2029,Cloudy,0.2836749448020815
+ger,Marquez,Repsol Honda Team,2030,Cloudy,0.2836749448020815
+ger,Dovizioso,Ducati Team,2020,Clear,0.09614130414303816
+ger,Dovizioso,Ducati Team,2021,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,WithU Yamaha RNF MotoGP Team,2022,Clear,0.04779836045788514
+ger,Dovizioso,Ducati Team,2023,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2024,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2025,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2026,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2027,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2028,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2029,Partly Cloudy,0.12784681152189217
+ger,Dovizioso,Ducati Team,2030,Partly Cloudy,0.12784681152189217
+ger,Pedrosa,Repsol Honda Team,2020,Partly Cloudy,0.12912765694630068
+ger,Pedrosa,Repsol Honda Team,2021,Partly Cloudy,0.10061230544175721
+ger,Pedrosa,Repsol Honda Team,2022,Partly Cloudy,0.10063906721598959
+ger,Pedrosa,Repsol Honda Team,2023,Partly Cloudy,0.10130923404927623
+ger,Pedrosa,Repsol Honda Team,2024,Partly Cloudy,0.10242034516038735
+ger,Pedrosa,Repsol Honda Team,2025,Partly Cloudy,0.09079099102879822
+ger,Pedrosa,Repsol Honda Team,2026,Partly Cloudy,0.09079099102879822
+ger,Pedrosa,Repsol Honda Team,2027,Partly Cloudy,0.09079099102879822
+ger,Pedrosa,Repsol Honda Team,2028,Partly Cloudy,0.09079099102879822
+ger,Pedrosa,Repsol Honda Team,2029,Partly Cloudy,0.09079099102879822
+ger,Pedrosa,Repsol Honda Team,2030,Partly Cloudy,0.09079099102879822
+ger,Lorenzo,Movistar Yamaha MotoGP,2020,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2021,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2022,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2023,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2024,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2025,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2026,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2027,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2028,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2029,Partly Cloudy,0.2572035425701223
+ger,Lorenzo,Movistar Yamaha MotoGP,2030,Partly Cloudy,0.2572035425701223
+ger,Miller,Pramac Racing,2020,Clear,0.07348409083922285
+ger,Miller,Ducati Lenovo Team,2021,Cloudy,0.02890488131330164
+ger,Miller,Ducati Lenovo Team,2022,Clear,0.16115355164752196
+ger,Miller,Ducati Lenovo Team,2023,Partly Cloudy,0.08926853086387894
+ger,Miller,Ducati Lenovo Team,2024,Partly Cloudy,0.09149075308610116
+ger,Miller,Prima Pramac Yamaha MotoGP,2025,Cloudy,0.0844034585384731
+ger,Miller,Ducati Lenovo Team,2026,Partly Cloudy,0.13650460953456958
+ger,Miller,Ducati Lenovo Team,2027,Partly Cloudy,0.13650460953456958
+ger,Miller,Ducati Lenovo Team,2028,Partly Cloudy,0.13650460953456958
+ger,Miller,Ducati Lenovo Team,2029,Partly Cloudy,0.13650460953456958
+ger,Miller,Ducati Lenovo Team,2030,Partly Cloudy,0.13650460953456958
+ger,Crutchlow,LCR Honda CASTROL,2020,Clear,0.06361889991274731
+ger,Crutchlow,LCR Honda,2021,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2022,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2023,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2024,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2025,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2026,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2027,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2028,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2029,Cloudy,0.034561769069077604
+ger,Crutchlow,LCR Honda,2030,Cloudy,0.034561769069077604
+ger,Zarco,Esponsorama Racing,2020,Clear,0.0338601793187266
+ger,Zarco,Pramac Racing,2021,Cloudy,0.14814003335991208
+ger,Zarco,Prima Pramac Racing,2022,Clear,0.06637474780063557
+ger,Zarco,Monster Yamaha Tech 3,2023,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2024,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2025,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2026,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2027,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2028,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2029,Clear,0.06668647272773322
+ger,Zarco,Monster Yamaha Tech 3,2030,Clear,0.06668647272773322
+ger,Morbidelli,Petronas Yamaha SRT,2020,Clear,0.17805729946575352
+ger,Morbidelli,Petronas Yamaha SRT,2021,Cloudy,0.20149931758189174
+ger,Morbidelli,Monster Energy Yamaha MotoGP,2022,Clear,0.044340663218696265
+ger,Morbidelli,Petronas Yamaha SRT,2023,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2024,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2025,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2026,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2027,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2028,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2029,Clear,0.14638817827383213
+ger,Morbidelli,Petronas Yamaha SRT,2030,Clear,0.14638817827383213
+ger,Rins,Team SUZUKI ECSTAR,2020,Clear,0.04182120691718429
+ger,Rins,Team SUZUKI ECSTAR,2021,Cloudy,0.049289559930250054
+ger,Rins,Team SUZUKI ECSTAR,2022,Cloudy,0.048386605361614356
+ger,Rins,Team SUZUKI ECSTAR,2023,Cloudy,0.04378088019616258
+ger,Rins,Team SUZUKI ECSTAR,2024,Cloudy,0.04378088019616258
+ger,Rins,Monster Energy Yamaha MotoGP Team,2025,Cloudy,0.004446635997227546
+ger,Rins,Team SUZUKI ECSTAR,2026,Cloudy,0.04378088019616258
+ger,Rins,Team SUZUKI ECSTAR,2027,Cloudy,0.04378088019616258
+ger,Rins,Team SUZUKI ECSTAR,2028,Cloudy,0.04378088019616258
+ger,Rins,Team SUZUKI ECSTAR,2029,Cloudy,0.04378088019616258
+ger,Rins,Team SUZUKI ECSTAR,2030,Cloudy,0.04378088019616258
+ger,Quartararo,Petronas Yamaha SRT,2020,Clear,0.1483999385035496
+ger,Quartararo,Monster Energy Yamaha MotoGP,2021,Cloudy,0.021250096656946865
+ger,Quartararo,Monster Energy Yamaha MotoGP,2022,Clear,0.020165900119716054
+ger,Quartararo,Monster Energy Yamaha MotoGP,2023,Clear,0.020165900119716054
+ger,Quartararo,Monster Energy Yamaha MotoGP,2024,Clear,0.01458819359367751
+ger,Quartararo,Monster Energy Yamaha MotoGP Team,2025,Cloudy,0.004446875863231961
+ger,Quartararo,Monster Energy Yamaha MotoGP,2026,Clear,0.01458819359367751
+ger,Quartararo,Monster Energy Yamaha MotoGP,2027,Clear,0.01458819359367751
+ger,Quartararo,Monster Energy Yamaha MotoGP,2028,Clear,0.01458819359367751
+ger,Quartararo,Monster Energy Yamaha MotoGP,2029,Clear,0.01458819359367751
+ger,Quartararo,Monster Energy Yamaha MotoGP,2030,Clear,0.01458819359367751
+ger,Nakagami,LCR Honda IDEMITSU,2020,Clear,0.005557172960449819
+ger,Nakagami,LCR Honda IDEMITSU,2021,Cloudy,0.041470248768924044
+ger,Nakagami,LCR Honda IDEMITSU,2022,Clear,0.036920778071418615
+ger,Nakagami,LCR Honda IDEMITSU,2023,Clear,0.03224405086690341
+ger,Nakagami,LCR Honda IDEMITSU,2024,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2025,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2026,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2027,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2028,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2029,Clear,0.01334233283872237
+ger,Nakagami,LCR Honda IDEMITSU,2030,Clear,0.01334233283872237
+ger,Stoner,Ducati Marlboro Team,2020,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2021,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2022,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2023,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2024,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2025,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2026,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2027,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2028,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2029,Partly Cloudy,0.10322135194899941
+ger,Stoner,Ducati Marlboro Team,2030,Partly Cloudy,0.10322135194899941
+ger,Binder,Red Bull KTM Factory Racing,2020,Cloudy,0.004451323624106358
+ger,Binder,Red Bull KTM Factory Racing,2021,Cloudy,0.007323454401928286
+ger,Binder,Red Bull KTM Factory Racing,2022,Clear,0.040162360727533854
+ger,Binder,Red Bull KTM Factory Racing,2023,Cloudy,0.04046354919359631
+ger,Binder,Red Bull KTM Factory Racing,2024,Cloudy,0.04491970627893238
+ger,Binder,Red Bull KTM Factory Racing,2025,Cloudy,0.04268577141581853
+ger,Binder,Red Bull KTM Factory Racing,2026,Cloudy,0.04491970627893238
+ger,Binder,Red Bull KTM Factory Racing,2027,Cloudy,0.04491970627893238
+ger,Binder,Red Bull KTM Factory Racing,2028,Cloudy,0.04491970627893238
+ger,Binder,Red Bull KTM Factory Racing,2029,Cloudy,0.04491970627893238
+ger,Binder,Red Bull KTM Factory Racing,2030,Cloudy,0.04491970627893238

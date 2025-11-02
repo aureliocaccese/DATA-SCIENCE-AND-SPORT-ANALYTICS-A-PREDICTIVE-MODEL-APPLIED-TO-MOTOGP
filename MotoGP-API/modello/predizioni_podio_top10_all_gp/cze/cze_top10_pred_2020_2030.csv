@@ -1,0 +1,166 @@
+Event,Rider,Team,Year,Conditions,Prob_podio
+cze,Espargaro,Aprilia Racing Team Gresini,2020,Clear,0.0022266859244303005
+cze,Espargaro,Aprilia Racing Team Gresini,2021,Clear,0.0022266859244303005
+cze,Espargaro,Aprilia Racing Team Gresini,2022,Clear,0.0022281135646301364
+cze,Espargaro,Aprilia Racing,2023,Clear,0.053019118557776045
+cze,Espargaro,Aprilia Racing Team Gresini,2024,Clear,0.0022281135646301364
+cze,Espargaro,Red Bull KTM Tech3,2025,Partly Cloudy,0.06965932526177777
+cze,Espargaro,Aprilia Racing Team Gresini,2026,Clear,0.0022281135646301364
+cze,Espargaro,Aprilia Racing Team Gresini,2027,Clear,0.0022281135646301364
+cze,Espargaro,Aprilia Racing Team Gresini,2028,Clear,0.0022281135646301364
+cze,Espargaro,Aprilia Racing Team Gresini,2029,Clear,0.0022281135646301364
+cze,Espargaro,Aprilia Racing Team Gresini,2030,Clear,0.0022281135646301364
+cze,Rossi,Monster Energy Yamaha MotoGP,2020,Clear,0.13074622908431588
+cze,Rossi,Petronas Yamaha SRT,2021,Clear,0.25050738652364146
+cze,Rossi,Movistar Yamaha MotoGP,2022,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2023,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2024,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2025,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2026,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2027,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2028,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2029,Cloudy,0.16023695555236595
+cze,Rossi,Movistar Yamaha MotoGP,2030,Cloudy,0.16023695555236595
+cze,Marquez,Repsol Honda Team,2020,Clear,0.1810036129269098
+cze,Marquez,LCR Honda CASTROL,2021,Clear,0.04120046149223535
+cze,Marquez,LCR Honda CASTROL,2022,Clear,0.04223443093388606
+cze,Marquez,Gresini Racing MotoGP,2023,Clear,0.04114539488566345
+cze,Marquez,Repsol Honda Team,2024,Clear,0.2941207468880613
+cze,Marquez,Ducati Lenovo Team,2025,Partly Cloudy,0.1978813802405719
+cze,Marquez,Repsol Honda Team,2026,Clear,0.28480643296777114
+cze,Marquez,Repsol Honda Team,2027,Clear,0.28480643296777114
+cze,Marquez,Repsol Honda Team,2028,Clear,0.28480643296777114
+cze,Marquez,Repsol Honda Team,2029,Clear,0.28480643296777114
+cze,Marquez,Repsol Honda Team,2030,Clear,0.28480643296777114
+cze,Dovizioso,Ducati Team,2020,Clear,0.5382556281183334
+cze,Dovizioso,Petronas Yamaha SRT,2021,Clear,0.2610929871084439
+cze,Dovizioso,Ducati Team,2022,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2023,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2024,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2025,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2026,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2027,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2028,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2029,Cloudy,0.6589538663127378
+cze,Dovizioso,Ducati Team,2030,Cloudy,0.6589538663127378
+cze,Pedrosa,Repsol Honda Team,2020,Cloudy,0.07406545430456528
+cze,Pedrosa,Repsol Honda Team,2021,Cloudy,0.06913203224537887
+cze,Pedrosa,Repsol Honda Team,2022,Cloudy,0.06924729601295791
+cze,Pedrosa,Repsol Honda Team,2023,Cloudy,0.08507750422796594
+cze,Pedrosa,Repsol Honda Team,2024,Cloudy,0.08507750422796594
+cze,Pedrosa,Repsol Honda Team,2025,Cloudy,0.08720709297860711
+cze,Pedrosa,Repsol Honda Team,2026,Cloudy,0.08720709297860711
+cze,Pedrosa,Repsol Honda Team,2027,Cloudy,0.08720709297860711
+cze,Pedrosa,Repsol Honda Team,2028,Cloudy,0.08720709297860711
+cze,Pedrosa,Repsol Honda Team,2029,Cloudy,0.08720709297860711
+cze,Pedrosa,Repsol Honda Team,2030,Cloudy,0.08720709297860711
+cze,Lorenzo,Yamaha Factory Racing,2020,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2021,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2022,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2023,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2024,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2025,Cloudy,0.16479829266827514
+cze,Lorenzo,Yamaha Factory Racing,2026,Cloudy,0.15590940377938625
+cze,Lorenzo,Yamaha Factory Racing,2027,Cloudy,0.15590940377938625
+cze,Lorenzo,Yamaha Factory Racing,2028,Cloudy,0.15590940377938625
+cze,Lorenzo,Yamaha Factory Racing,2029,Cloudy,0.15590940377938625
+cze,Lorenzo,Yamaha Factory Racing,2030,Cloudy,0.15590940377938625
+cze,Miller,Pramac Racing,2020,Clear,0.057998446363116664
+cze,Miller,Ducati Lenovo Team,2021,Clear,0.050183058748432485
+cze,Miller,Pramac Racing,2022,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2023,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2024,Clear,0.04890161385033181
+cze,Miller,Prima Pramac Yamaha MotoGP,2025,Partly Cloudy,0.09371536149551223
+cze,Miller,Pramac Racing,2026,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2027,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2028,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2029,Clear,0.04890161385033181
+cze,Miller,Pramac Racing,2030,Clear,0.04890161385033181
+cze,Crutchlow,LCR Honda CASTROL,2020,Clear,0.11474664100069121
+cze,Crutchlow,LCR Honda CASTROL,2021,Cloudy,0.051422172685334694
+cze,Crutchlow,WithU Yamaha RNF MotoGP Team,2022,Clear,0.04828880618461576
+cze,Crutchlow,LCR Honda CASTROL,2023,Cloudy,0.017906193625742837
+cze,Crutchlow,LCR Honda CASTROL,2024,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2025,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2026,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2027,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2028,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2029,Cloudy,0.017866021242258615
+cze,Crutchlow,LCR Honda CASTROL,2030,Cloudy,0.017866021242258615
+cze,Zarco,Esponsorama Racing,2020,Clear,0.16775224210296868
+cze,Zarco,Pramac Racing,2021,Clear,0.14618664143750457
+cze,Zarco,CASTROL Honda LCR,2022,Clear,0.13403619374159043
+cze,Zarco,Prima Pramac Racing,2023,Clear,0.125885447471914
+cze,Zarco,CASTROL Honda LCR,2024,Clear,0.13403619374159043
+cze,Zarco,CASTROL Honda LCR,2025,Partly Cloudy,0.05251852534966219
+cze,Zarco,CASTROL Honda LCR,2026,Clear,0.0502383646443916
+cze,Zarco,CASTROL Honda LCR,2027,Clear,0.0502383646443916
+cze,Zarco,CASTROL Honda LCR,2028,Clear,0.0502383646443916
+cze,Zarco,CASTROL Honda LCR,2029,Clear,0.0502383646443916
+cze,Zarco,CASTROL Honda LCR,2030,Clear,0.0502383646443916
+cze,Morbidelli,Petronas Yamaha SRT,2020,Clear,0.34617051593376535
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2021,Clear,0.03730761698821378
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2022,Clear,0.039529839210436006
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2023,Clear,0.039529839210436006
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2024,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2025,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2026,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2027,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2028,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2029,Clear,0.040631952078375985
+cze,Morbidelli,Monster Energy Yamaha MotoGP,2030,Clear,0.040631952078375985
+cze,Rins,Team SUZUKI ECSTAR,2020,Clear,0.06151973828434532
+cze,Rins,Team SUZUKI ECSTAR,2021,Clear,0.05898712230863937
+cze,Rins,Team SUZUKI ECSTAR,2022,Clear,0.06150871664144592
+cze,Rins,Team SUZUKI ECSTAR,2023,Clear,0.06140221133076033
+cze,Rins,Team SUZUKI ECSTAR,2024,Clear,0.06140221133076033
+cze,Rins,Monster Energy Yamaha MotoGP Team,2025,Partly Cloudy,0.020008784367369258
+cze,Rins,Team SUZUKI ECSTAR,2026,Clear,0.06140221133076033
+cze,Rins,Team SUZUKI ECSTAR,2027,Clear,0.06140221133076033
+cze,Rins,Team SUZUKI ECSTAR,2028,Clear,0.06140221133076033
+cze,Rins,Team SUZUKI ECSTAR,2029,Clear,0.06140221133076033
+cze,Rins,Team SUZUKI ECSTAR,2030,Clear,0.06140221133076033
+cze,Quartararo,Petronas Yamaha SRT,2020,Clear,0.1293122838233283
+cze,Quartararo,Monster Energy Yamaha MotoGP,2021,Clear,0.039040884319686234
+cze,Quartararo,Monster Energy Yamaha MotoGP,2022,Clear,0.040151995430797345
+cze,Quartararo,Monster Energy Yamaha MotoGP,2023,Clear,0.040151995430797345
+cze,Quartararo,Monster Energy Yamaha MotoGP,2024,Clear,0.035683310653332925
+cze,Quartararo,Monster Energy Yamaha MotoGP Team,2025,Partly Cloudy,0.020008657527506926
+cze,Quartararo,Monster Energy Yamaha MotoGP,2026,Clear,0.035683310653332925
+cze,Quartararo,Monster Energy Yamaha MotoGP,2027,Clear,0.035683310653332925
+cze,Quartararo,Monster Energy Yamaha MotoGP,2028,Clear,0.035683310653332925
+cze,Quartararo,Monster Energy Yamaha MotoGP,2029,Clear,0.035683310653332925
+cze,Quartararo,Monster Energy Yamaha MotoGP,2030,Clear,0.035683310653332925
+cze,Nakagami,LCR Honda IDEMITSU,2020,Clear,0.008892357138219042
+cze,Nakagami,LCR Honda IDEMITSU,2021,Clear,0.04027564546127966
+cze,Nakagami,LCR Honda IDEMITSU,2022,Clear,0.036942312127946325
+cze,Nakagami,LCR Honda IDEMITSU,2023,Clear,0.03782790707486109
+cze,Nakagami,LCR Honda IDEMITSU,2024,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2025,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2026,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2027,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2028,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2029,Clear,0.01669219390094843
+cze,Nakagami,LCR Honda IDEMITSU,2030,Clear,0.01669219390094843
+cze,Stoner,Honda LCR,2020,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2021,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2022,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2023,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2024,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2025,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2026,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2027,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2028,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2029,Partly Cloudy,0.0795986917828001
+cze,Stoner,Honda LCR,2030,Partly Cloudy,0.0795986917828001
+cze,Binder,Red Bull KTM Factory Racing,2020,Clear,0.020093900403100756
+cze,Binder,Red Bull KTM Factory Racing,2021,Clear,0.015101793017637609
+cze,Binder,Red Bull KTM Factory Racing,2022,Clear,0.04841315010969149
+cze,Binder,Red Bull KTM Factory Racing,2023,Clear,0.0460521804521796
+cze,Binder,Red Bull KTM Factory Racing,2024,Clear,0.051203909252186014
+cze,Binder,Red Bull KTM Factory Racing,2025,Partly Cloudy,0.06727894910507135
+cze,Binder,Red Bull KTM Factory Racing,2026,Clear,0.051203909252186014
+cze,Binder,Red Bull KTM Factory Racing,2027,Clear,0.051203909252186014
+cze,Binder,Red Bull KTM Factory Racing,2028,Clear,0.051203909252186014
+cze,Binder,Red Bull KTM Factory Racing,2029,Clear,0.051203909252186014
+cze,Binder,Red Bull KTM Factory Racing,2030,Clear,0.051203909252186014

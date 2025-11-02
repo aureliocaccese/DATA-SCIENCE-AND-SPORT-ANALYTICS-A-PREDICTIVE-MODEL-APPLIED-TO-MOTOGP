@@ -1,0 +1,35 @@
+{
+  "name": "Protezione-branch-critici",
+  "enforcement": "disabled",
+  "bypass_actors": [],
+  "bypass_teams": [],
+  "bypass_apps": [],
+  "target": {
+    "type": "branch",
+    "branches": [
+      "main",
+      "MOTOGP-API"
+    ]
+  },
+  "rules": {
+    "restrict_creations": false,
+    "restrict_updates": false,
+    "restrict_deletions": true,
+    "block_force_pushes": true,
+    "require_linear_history": true,
+    "require_signed_commits": true,
+    "require_pull_request": true,
+    "required_status_checks": [],
+    "required_deployments": [],
+    "dismiss_stale_reviews": false,
+    "required_approving_review_count": 1,
+    "require_code_owner_review": false,
+    "require_code_scanning": false,
+    "require_code_quality": false,
+    "allowed_merge_types": [
+      "merge_commit"
+    ],
+    "bypass_for_admins": false,
+    "auto_request_copilot_review": true
+  }
+}
